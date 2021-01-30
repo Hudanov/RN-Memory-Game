@@ -1,1 +1,1 @@
-# RN-Memoty-Game
+# RN-Memory-Game
